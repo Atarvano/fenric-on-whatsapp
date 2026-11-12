@@ -1,9 +1,3 @@
 {
-  "tasks": [
-    {
-      "activity": "Dummy Activity (Test)",
-      "start": "Monday, 9 November 2026",
-      "end": "Tuesday, 10 November 2026"
-    }
-  ]
+  "tasks": []
 }
